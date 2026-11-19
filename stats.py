@@ -1,4 +1,4 @@
-""""statistics for  a list of marks."""
+x""""statistics for  a list of marks."""
 def average(marks):
 	return sum(marks)/len(marks)
 def hihgest(marks):
